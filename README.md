@@ -1,4 +1,4 @@
-### Hi there 👋
+My new account on Gitlab: https://gitlab.com/nettijoe
 
 <!--
 **nettijoe96/nettijoe96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
